@@ -45,7 +45,7 @@ pd.set_option("display.max_columns", None)
 
 # =========================================================
 
-# Purpose: Upload and read the Excel dataset
+# Purpose: Upload and read the dataset
 
 # =========================================================
 
